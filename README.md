@@ -1,7 +1,5 @@
 # Unity-Engine-Clicker
-Clicker about Unity Engine.
-
-
+Clicker about Unity Engine. <br />
 
 <h2>Download it here:</h2>
 
