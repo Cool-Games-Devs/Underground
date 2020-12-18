@@ -1,4 +1,4 @@
-# Unity-Engine-Clicker
+# Unity Engine - Clicker
 Clicker about <a href="https://unity.com">Unity Engine</a>.
 
 <h2>Download it here:</h2>
